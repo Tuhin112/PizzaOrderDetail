@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PizzaOrderDetail</string>
+    <string name="Title">Welcome To Pizz Pizz</string>
+    <string name="aboutme">AboutMe</string>
+    <string name="select_pizza_type">Select Pizza Type</string>
+    <string name="selected_item">Selected Pizza:</string>
+    <string name="conform">Order Conformation</string>
+
+    <string-array name="Pizzas">
+        <item>Veg Pizza</item>
+        <item>NonVeg Pizza</item>
+        <item>Pepproni Pizza</item>
+    </string-array>
+
+</resources>

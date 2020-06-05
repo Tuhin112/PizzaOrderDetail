@@ -1,0 +1,2 @@
+rootProject.name='PizzaOrderDetail'
+include ':app'
